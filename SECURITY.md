@@ -6,8 +6,8 @@
 
 | Project | Report privately |
 | --- | --- |
-| Tierinator · tierinator.sayel.dev | [Report a vulnerability](https://github.com/blaziikun/tierinator/security/advisories/new) |
-| UniverList · univerlist.sayel.dev | [Report a vulnerability](https://github.com/blaziikun/univerlist/security/advisories/new) |
+| Tierinator · tierinator.com | [Report a vulnerability](https://github.com/blaziikun/tierinator/security/advisories/new) |
+| UniverList · univerlist.app | [Report a vulnerability](https://github.com/blaziikun/univerlist/security/advisories/new) |
 | sayel.dev, or anything else | [Report a vulnerability](https://github.com/blaziikun/.github/security/advisories/new) |
 
 Please don't open a public issue for a security problem.
